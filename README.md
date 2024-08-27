@@ -20,7 +20,6 @@ Key Components:
 ### Functionality:
 1. **Initialization**:
    - The LCD, seven-segment display, timer, and LEDs are initialized. The microcontroller pins are configured for output where necessary.
-
 2. **Traffic Light Sequence**:
   - Green Phase:
 Turns on the green LED, displays "GO....." on the LCD, and counts down from 30 to 0 while updating the value on the 7-segment displays.
